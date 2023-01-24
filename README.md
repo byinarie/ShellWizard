@@ -40,7 +40,8 @@ python3 ShellWizard.py veil -lhost LISTENER-IP -lport -LISTENER-PORT -veil-optio
 python3 ShellWizard.py venom -lhost LISTENER-IP -lport -LISTENER-PORT -msf-options ADDTIONAL-OPTIONS
 ```
 
-* Generate an Empire Payload (needs updated to include lhost)
+* Generate an Empire Payload (needs updated to include lhost, listener creation/etc)
+* Currently not working.
 ```python
 python3 ShellWizard.py veil --empire-host EMPIRE-API --empire-user USER --empire-pass PASSWORD --empire-options ADDTIONAL-ARGUMENTS```
 ```
