@@ -7,7 +7,7 @@ ShellWizard
 
 <h4 align="center">Python wrapper for the payload creation.</h4>
 <h6 align="center">This tool is still in development and has plans to include significantly more funcionality. Is currently just a PoC.</h4>
-<h6 align="center">Some of the future functionality includes better staging and delivery.</h4>
+<h6 align="center">Some of the future functionality includes better staging (wix building and backdooring) and delivery.</h4>
 
 <p align="center">
   <a href="#install">Install</a> •
