@@ -6,6 +6,7 @@ ShellWizard
 </h1>
 
 <h4 align="center">Python wrapper for the payload creation.</h4>
+<h6 align="center">This tool is still in development and has plans to include significantly more funcionality. Is currently just a PoC.</h4>
 
 <p align="center">
   <a href="#install">Install</a> •
