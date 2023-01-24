@@ -22,7 +22,7 @@ pip3 install -r requirements.txt
 
 ## Examples
 * Help
-```bash
+```python
 python3 ShellWizard.py --help
 python3 ShellWizard.py venom --help
 python3 ShellWizard.py empire --help
