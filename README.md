@@ -15,7 +15,7 @@ ShellWizard
 </p>
 
 ## Install
-```bash
+```python
 git clone https://github.com/byinarie/ShellWizard.git
 pip3 install -r requirements.txt 
 ```
